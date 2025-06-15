@@ -1,0 +1,14 @@
+/Users/tobia/Desktop/Uni/Master/C_Project_praktikum/BonusAufgabe_03/cmake-build-debug/CMakeFiles/tasks.dir
+/Users/tobia/Desktop/Uni/Master/C_Project_praktikum/BonusAufgabe_03/cmake-build-debug/CMakeFiles/tournament.dir
+/Users/tobia/Desktop/Uni/Master/C_Project_praktikum/BonusAufgabe_03/cmake-build-debug/CMakeFiles/tests.dir
+/Users/tobia/Desktop/Uni/Master/C_Project_praktikum/BonusAufgabe_03/cmake-build-debug/CMakeFiles/test.dir
+/Users/tobia/Desktop/Uni/Master/C_Project_praktikum/BonusAufgabe_03/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tobia/Desktop/Uni/Master/C_Project_praktikum/BonusAufgabe_03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tobia/Desktop/Uni/Master/C_Project_praktikum/BonusAufgabe_03/cmake-build-debug/_deps/catch2-build/CMakeFiles/test.dir
+/Users/tobia/Desktop/Uni/Master/C_Project_praktikum/BonusAufgabe_03/cmake-build-debug/_deps/catch2-build/CMakeFiles/edit_cache.dir
+/Users/tobia/Desktop/Uni/Master/C_Project_praktikum/BonusAufgabe_03/cmake-build-debug/_deps/catch2-build/CMakeFiles/rebuild_cache.dir
+/Users/tobia/Desktop/Uni/Master/C_Project_praktikum/BonusAufgabe_03/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2.dir
+/Users/tobia/Desktop/Uni/Master/C_Project_praktikum/BonusAufgabe_03/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir
+/Users/tobia/Desktop/Uni/Master/C_Project_praktikum/BonusAufgabe_03/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/test.dir
+/Users/tobia/Desktop/Uni/Master/C_Project_praktikum/BonusAufgabe_03/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/edit_cache.dir
+/Users/tobia/Desktop/Uni/Master/C_Project_praktikum/BonusAufgabe_03/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/rebuild_cache.dir

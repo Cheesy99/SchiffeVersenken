@@ -1,0 +1,8 @@
+# ninja log v6
+19	497	1750014754922458583	CMakeFiles/tasks.dir/src/Cheating_player.cpp.o	e0f02dbda054b00
+19	503	1750014754922291793	CMakeFiles/tasks.dir/src/Human_player.cpp.o	d7588e77d1d28c0
+18	504	1750014754921658009	CMakeFiles/tasks.dir/src/Player.cpp.o	76cf1d9061802477
+19	533	1750014754922580873	CMakeFiles/tasks.dir/src/GameController.cpp.o	e641c97837729ef8
+18	560	1750014754921973130	CMakeFiles/tasks.dir/src/Random_player.cpp.o	b7a257161059d7fa
+16	567	1750014754919728698	CMakeFiles/tasks.dir/src/Board.cpp.o	12bb258be59253e7
+500	823	1750014755403739847	CMakeFiles/tasks.dir/src/SchiffeVersenken.cpp.o	fd21985d6163c9e6
